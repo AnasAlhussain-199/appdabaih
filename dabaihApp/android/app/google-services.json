@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "557838339677",
+    "project_id": "dabaih",
+    "storage_bucket": "dabaih.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557838339677:android:01bfca6ac8c0cdddd807b4",
+        "android_client_info": {
+          "package_name": "live.dhabayihmakah.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557838339677-u0fh72p5c4bshjfuoegeinb57v853fo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFjRQ1obA4hjVgciKv3phD_b5HR9QSNtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557838339677-u0fh72p5c4bshjfuoegeinb57v853fo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557838339677:android:c69a8b58cef62e8ed807b4",
+        "android_client_info": {
+          "package_name": "live.dhabayihmakah.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557838339677-u0fh72p5c4bshjfuoegeinb57v853fo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFjRQ1obA4hjVgciKv3phD_b5HR9QSNtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557838339677-u0fh72p5c4bshjfuoegeinb57v853fo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
